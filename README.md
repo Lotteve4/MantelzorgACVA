@@ -3,7 +3,7 @@
 lotte
 test nig
 kadi
-
+Senna
 iets aanpassen, test
 
 Een eerste kennismaking met data in R: bestanden inladen (csv, Excel, rds) en bekijken wat erin zit.
