@@ -1,7 +1,7 @@
 # De basis: data inladen en bekijken in R
 
 lotte
-
+test nig
 kadi
 
 iets aanpassen, test
